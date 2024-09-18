@@ -3,8 +3,8 @@
 const char* routerSSID = "YourNetworkSSID";
 const char* routerPassword = "YourNetworkPassword";
 
-const char* apSSID = "ESP32-AP";
-const char* apPassword = "SecurePassword123!";
+const char* apSSID = "DEbobdebugH0ootsp0t";
+const char* apPassword = "leMostSecurePasswordEVER!";
 
 const int buttonPin = 0; // Adjust this pin number based on your setup
 bool apEnabled = false; // Track the state of the Access Point
