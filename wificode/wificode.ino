@@ -6,7 +6,7 @@ const char* routerPassword = "YourNetworkPassword";
 const char* apSSID = "DEbobdebugH0ootsp0t";
 const char* apPassword = "leMostSecurePasswordEVER!";
 
-const int buttonPin = 0; // Adjust this pin number based on your setup
+const int buttonPin = 3; // Adjust this pin number based on your setup
 bool apEnabled = false; // Track the state of the Access Point
 
 void setup() {
